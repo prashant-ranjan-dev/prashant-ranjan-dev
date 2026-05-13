@@ -36,7 +36,7 @@ Building production-style backend systems and preparing for software engineering
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
