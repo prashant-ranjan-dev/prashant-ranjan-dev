@@ -1,77 +1,101 @@
+<h1 align="center">Hi 👋, I'm Prashant Ranjan</h1>
+<h3 align="center">Backend-focused Developer | Java | Spring Boot | DSA | Open Source Learner</h3>
 
-# Hi, I'm Prashant Ranjan 👋
-
-Backend-focused developer with experience in building Java applications using Spring Boot, REST APIs, relational databases, and problem-solving with Data Structures & Algorithms.
-
-Currently preparing for software engineering placements while building production-style backend systems and contributing to open source.
+<p align="center">
+Building production-style backend systems and preparing for software engineering placements.
+</p>
 
 ---
 
-## What I'm Working On
+## About Me
 
-- Building scalable backend applications with Java & Spring Boot
-- Strengthening DSA for coding interviews
-- Exploring open source contributions (Linux Foundation ecosystem)
-- Learning real-world software engineering workflows
+- Computer Science student at Pondicherry University
+- Backend-focused developer with experience in Java & Spring Boot
+- Comfortable with REST APIs, relational databases, and backend architecture
+- Actively improving DSA problem-solving for coding interviews
+- Preparing for open source contributions in Linux Foundation ecosystem
 
 ---
 
 ## Tech Stack
 
 ### Languages
-Java • JavaScript • C
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,c" />
+</p>
 
-### Backend
-Spring Boot • REST APIs • Hibernate • Maven • Apache Tomcat
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
 ### Databases
-MySQL • PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
 ### Tools
-Git • GitHub • IntelliJ IDEA • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
+</p>
+
+---
+
+## Current Focus (2026)
+
+- Building production-grade Spring Boot projects
+- Strengthening DSA for placements
+- Learning software engineering best practices
+- Starting meaningful open source contributions
 
 ---
 
 ## Featured Projects
 
 ### LearnPath AI
-AI-powered learning assistant designed to personalize educational journeys.
+AI-powered educational assistant focused on personalized learning workflows.
 
 **Tech:** Java, Spring Boot, Database Design
 
 ---
 
+### Weather Forecast App
+Weather application with API integration and frontend interaction.
+
+**Tech:** JavaScript, APIs, HTML/CSS
+
+---
+
 ### Eco Scan
-Environmental awareness / scanning application project.
+Project focused on environmental awareness / scanning workflows.
 
 **Tech:** HTML, CSS, JavaScript
 
 ---
 
-### Weather Forecast App
-Weather tracking application with API integration.
+## Open Source Journey
+Currently building practical open source contribution skills through workflow mastery, codebase exploration, and structured problem solving.
+- Git and collaborative development workflows
+- Reading and understanding unfamiliar large codebases
+- Debugging production-style applications
+- Issue analysis and structured problem solving
+- Writing clean, reviewable contributions
 
-**Tech:** JavaScript, APIs
-
----
-
-## Current Goals (2026)
-
-- Make meaningful open source contributions
-- Build a production-grade Spring Boot project
-- Improve problem-solving consistency in DSA
-- Prepare for internship & placement interviews
+Targeting first contributions in Linux Foundation ecosystem projects.
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=prashant-ranjan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=prashant-ranjan-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prashant-ranjan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 2026 Goals
 
+- 100+ DSA problems with strong medium-level confidence
+- Production-style backend project deployment
+- First open source contributions (Linux Foundation ecosystem)
+- Strong placement-ready engineering portfolio
 
 ---
 
 ## Connect With Me
 
-GitHub: https://github.com/prashant-ranjan-dev
+<p>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+</p>
